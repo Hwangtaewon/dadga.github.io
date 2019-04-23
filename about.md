@@ -45,9 +45,9 @@ permalink: /about/
 
 * 황태원
   * BoB 7기 보안 제품 개발 트랙
-  * 역할 :
-  * 소속 :
-  * 홈피 :
+  * 역할 : 개발
+  * 소속 : 수원대학교 정보보호학과
+  * 홈피 : [github.com/opddr](https://github.com/opddr)
 <br><br>
 
 * 추후 멤버 추가 예정.
